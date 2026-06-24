@@ -17,7 +17,7 @@ coolant: {
 }
 shoot: {
   firstShotDelay: 20
-  shots: 6
+  shots: 3
   shotDelay: 0
 }
 ammoPerShot: 2
