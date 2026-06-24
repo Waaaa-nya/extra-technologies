@@ -1,6 +1,6 @@
 type: ConsumeGenerator
 name: Hi-pressure turbine
-description: "produces energy by evaporating large amounts of water using pyratite"
+description: "Produces energy by evaporating large amounts of water using pyratite"
 size: 3
 category: power
 research: core-j1
